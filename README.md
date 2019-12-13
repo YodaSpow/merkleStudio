@@ -9,6 +9,7 @@ Tracking issues and updating code base for Email Studio. Source code for emails 
 
 ### Goal of Email Studio
 Managed snippets and sections for Email Studio. Along with an Issue tracking or improvements to sections.
-
+<!--
 ### Download
-Download the latest release [here](https://github.com/YodaSpow/emailStudio/releases).
+Download the latest release [here](https://github.com/YodaSpow/merkleStudio/releases).
+-->
